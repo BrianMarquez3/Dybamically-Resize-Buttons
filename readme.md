@@ -1,4 +1,4 @@
-<h2 align="center"> Dybamically-Resize-Buttons &nbsp;:heart:&nbsp;</h2>
+<h2 align="center"> Dynamically-Resize-Buttons &nbsp;:heart:&nbsp;</h2>
 
 <p align="center">
   
